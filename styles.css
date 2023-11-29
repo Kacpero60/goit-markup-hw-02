@@ -81,3 +81,30 @@ body {
     text-transform: capitalize;
     color:#2e2f42;
 }
+.klasaf {
+    background-color:#2e2f42;
+}
+.fklasa {
+    font-family: "Raleway";
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color:#4d5ae5;
+}
+.klasaspan {
+    color:#f4f4fd;
+}
+.logo2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height:1.5;
+    color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
