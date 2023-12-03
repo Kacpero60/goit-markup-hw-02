@@ -52,7 +52,8 @@
     cursor: pointer;
 }
 body {
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
+    color:#434455;
 }
 .przycisk1:hover{
     background-color: #404BBF;
