@@ -81,7 +81,7 @@ body {
     text-transform: capitalize;
     color:#2e2f42;
 }
-.klasaf {
+.page-footer {
     background-color:#2e2f42;
 }
 .fklasa {
@@ -93,8 +93,10 @@ body {
     text-transform: uppercase;
     color:#4d5ae5;
 }
-.klasaspan {
+.highlight {
+    line-height: 1.5;
     color:#f4f4fd;
+    letter-spacing: 0.02em;
 }
 .logo2 {
     font-family: 'Raleway', sans-serif;
@@ -108,4 +110,7 @@ body {
     color:#F4F4FD;
     letter-spacing: 0.02em;
 }
-.css
+.page-footer {
+    background-color:#2e2f42;
+
+}
