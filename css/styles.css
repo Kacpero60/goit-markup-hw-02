@@ -59,7 +59,7 @@ body {
 .przycisk1:focus {
     background-color: #404BBF
 }
-.naglowek2 {
+.headertwo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -72,7 +72,7 @@ body {
     letter-spacing: 0.02em;
     color:#434455;
 }
-.naglowek3 {
+.headerthree {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
