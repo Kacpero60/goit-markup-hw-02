@@ -134,6 +134,20 @@ body {
 .przycisk11:hover {
     background-color: #404BBF;
 }
+.sekcja2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sekcja2akapit {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;   
+}
+
 .sekcja3 {
     font-size: 36px;
     line-height: 1.11;
