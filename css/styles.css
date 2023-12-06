@@ -80,6 +80,7 @@ body {
     --sectionn-heading-color:#434455;
     --footer-color: #F4F4FD;
     --link-hover-focus: #404bbf;
+    --color:var(--color:#2E2F42;)
 
 }
 .przycisk1:hover {
@@ -208,7 +209,21 @@ body {
     background-color:#FFFFFF;
 }
 .link {
-    line-height: 1,5;
-    letter-spacing: 0.02em;
-    color: #434455;
+    text-decoration: none
+}
+.adressclass {
+    font-style: normal;
+}
+.headerindex {
+    font-weight: 500; 
+    font-size: 20px; 
+    line-height: 1.2; 
+    letter-spacing: 0.02em; 
+    color: #232F42
+}
+.classli {
+    background-color:#FFFFFF;
+}
+.info {
+    
 }
