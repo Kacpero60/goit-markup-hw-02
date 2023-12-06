@@ -66,11 +66,21 @@
     color:#ffffff;
     cursor: pointer;
 }
-body {
+.body {
     font-family: "Roboto", sans-serif;
     color:#434455;
+    
 }
-.przycisk1:hover{
+:root {
+    --background-color:#FFFFFF;
+    --logo-main-color:#4d5ae5;
+    --background-color-section: #232f42;
+    --sectionn-heading-color:#434455;
+    --footer-color: #F4F4FD;
+    --link-hover-focus: #404bbf;
+
+}
+.przycisk1:hover {
     background-color: #404BBF;
 }
 .przycisk1:focus {
