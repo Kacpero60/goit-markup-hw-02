@@ -57,17 +57,6 @@
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.przycisk {
-    color: #4d5ae5;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:#ffffff;
-    cursor: pointer;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    background-color:#F4F4FD ;
-}
 body {
     font-family: "Roboto", sans-serif;
     color:#434455;
@@ -84,6 +73,17 @@ body {
     --link-hover-focus: #404bbf;
     --color:var(--color:#2E2F42;)
 
+}
+.przycisk {
+    color: #4d5ae5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:#ffffff;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    background-color:#F4F4FD ;
 }
 .przycisk:hover {
     background-color: #404BBF;
