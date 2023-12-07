@@ -58,7 +58,7 @@
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.przycisk1 {
+.przycisk {
     background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
@@ -83,10 +83,10 @@ body {
     --color:var(--color:#2E2F42;)
 
 }
-.przycisk1:hover {
+.przycisk:hover {
     background-color: #404BBF;
 }
-.przycisk1:focus {
+.przycisk:focus {
     background-color: #404BBF
 }
 .headertwo {
