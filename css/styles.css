@@ -86,9 +86,11 @@ body {
 }
 .przycisk:hover {
     background-color: #404BBF;
+    color:#FFFFFF;
 }
 .przycisk:focus {
-    background-color: #404BBF
+    background-color: #404BBF;
+    color: #FFFFFF;
 }
 .headertwo {
     font-weight: 500;
