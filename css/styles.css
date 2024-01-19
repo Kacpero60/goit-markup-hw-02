@@ -90,7 +90,7 @@ body {
     --logo-main-color:#4d5ae5;
     --background-color-section: #232f42;
     --sectionn-heading-color:#434455;
-    background-color:var(--footer-color);
+    --background-color:var(--footer-color);
     --link-hover-focus: #404bbf;
     --color:var(--color:#2E2F42;)
 
