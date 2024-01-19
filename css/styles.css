@@ -1,3 +1,18 @@
+.klasadlaheadera {
+    border-bottom: 1px solid #e7e9fc;
+}
+.kontener {
+    display: flex;
+}
+.container {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.klasanav {
+    display: flex;
+    align-items: center; 
+}
 .logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -6,7 +21,8 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none
+    text-decoration: none;
+    margin-right: 76px;
 }
 .logo link {
     text-decoration: none;
@@ -20,7 +36,10 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
-    text-decoration: none
+    text-decoration: none;
+    display: flex; 
+    gap: 40px;
+    padding: 24px 0;
 }
 .firstlink:focus {
     color: #404bbf;
@@ -29,7 +48,9 @@
     color: #404bbf;
 }
 .list {
-    list-style: none
+    list-style: none;
+    display: flex;
+    gap: 40px;
 }
 .link-one link  {
     font-weight: 500;
@@ -91,19 +112,6 @@ body {
 .przycisk:focus {
     background-color: #404BBF;
     color: #FFFFFF;
-}
-.headertwo {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.classp {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
 }
 .headerthree {
     font-size: 36px;
@@ -172,12 +180,6 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.sectiontwoa {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;   
-}
 
 .sectionthree {
     font-size: 36px;
@@ -199,18 +201,12 @@ body {
 .sectionfourcolor {
     background-color: #F4F4FD; 
 }
-.headersectionfour {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
+
 .plistfour {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color:#FFFFFF;
+    background-color: #434455;
 }
 .link {
     text-decoration: none
@@ -228,15 +224,7 @@ body {
 .classli {
     background-color:#FFFFFF;
 }
-.info {
-    font-size: 16px;
-     line-height: 1.5; 
-     letter-spacing: 0.02em;
-      color: #434455
-}
-.info:hover {
-    color: #404BBF
-}
-.info:focus {
+
+.plistfour:hover,.plistfour:focus {
     color: #404BBF
 }
